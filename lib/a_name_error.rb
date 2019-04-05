@@ -1,3 +1,3 @@
-puts "hello world"
+name = "hello world"
 
-x = hello_world
+hello_world
